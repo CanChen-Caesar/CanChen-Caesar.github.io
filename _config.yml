@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student at PolyU"
   # location         : "Earth"
-  employer         : "The Hong Kong Polytechnic University (PolyU)"
+  employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
   email            : "can-caesar.chen@connect.polyu.hk" 
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/chencan622/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
