@@ -5,7 +5,7 @@ permalink: /publication/2024-05-17-TRSC-chen2024iterative
 excerpt: 'This paper is about iterative adaptive perimeter control integrated with regional route guidance.'
 date: 2024-05-17
 venue: 'Transportation Science'
-paperurl: 'https://pubsonline.informs.org/doi/10.1287/trsc.2023.0091'
+paperurl: 'https://doi.org/10.1287/trsc.2023.0091'
 citation: 'Can Chen, Nikolas Geroliminis, Renxin Zhong (2024). &quot;An Iterative Adaptive Dynamic Programming Approach for Macroscopic Fundamental Diagram-Based Perimeter Control and Route Guidance.&quot; <i>Transportation Science</i>. 0(0).'
 ---
 
