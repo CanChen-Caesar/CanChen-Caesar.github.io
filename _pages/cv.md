@@ -39,6 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -50,7 +51,14 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * Transportation Research Part C: Emerging Technologies
+  * Transportmetrica A: Transport Science
+  * Transportmetrica B: Transport Dynamics
+  * Applied Energy
+  * Reliability Engineering & System Safety
+  * Energy
