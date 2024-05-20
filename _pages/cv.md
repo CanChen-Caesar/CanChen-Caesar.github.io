@@ -21,13 +21,17 @@ Work experience
   * The Hong Kong Polytechnic University
   * Supervisor: Agachai Sumalee
 
-* Oct 2017--Jul 2018: Research Associate
+* Oct 2017-Jul 2018: Research Associate
   * Nanyang Technological University
   * Supervisor: Feng Zhu
 
-* Feb 2017--Aug 2017: Research Assistant
+* Feb 2017-Aug 2017: Research Assistant
   * The Hong Kong Polytechnic University
   * Supervisor: [William H.K. Lam](https://www.polyu.edu.hk/cee/~cehklam/)
+
+* Sep 2014-Jun 2017: Research Assistant
+  * Sun Yat-Sen University
+  * Supervisor: [Renxin Zhong](https://www.labxing.com/-1159)
 
 Publications
 ======
