@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Can is a PhD student from the Department of Civil and Environmental Engineering at The Hong Kong Polytechnic University. Can's main research interests include traffic control and management strategies; machine learning and data mining for transportation big data analysis; optimal and nonlinear control theory with applications in transportation engineering; control of connected and autonomous vehicles.
+Can CHEN is a PhD student from the Department of Civil and Environmental Engineering at The Hong Kong Polytechnic University (PolyU), co-supervised by Dr. [Shu-Chien Hsu](https://drmarkhsu.wordpress.com/) and Prof. Agachai Sumalee. Prior to pursuing his PhD degree at PolyU, he received both his B.S. degree in Transport Engineering and M.S. degree in Traffic Engineering Information & Control from Sun Yat-Sen University, in 2014 and 2017, respectively, supervised by Prof. [Renxin Zhong](https://www.labxing.com/-1159). Can's main research interests include traffic control and management strategies; machine learning and reinforcement learning; optimal and nonlinear control theory with applications in transportation engineering; control of connected and autonomous vehicles; urban airspace mobility operation.
 
 <!--
 A data-driven personal website
