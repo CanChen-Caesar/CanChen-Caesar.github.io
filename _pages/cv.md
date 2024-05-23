@@ -62,3 +62,4 @@ Service and leadership
   * Applied Energy
   * Reliability Engineering & System Safety
   * Energy
+  * IEEE Conference on Intelligent Transport System (ITSC)
