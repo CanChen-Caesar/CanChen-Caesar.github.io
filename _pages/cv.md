@@ -66,5 +66,6 @@ Service and leadership
   * Applied Energy
   * Reliability Engineering & System Safety
   * Energy
+  * Nature Communications
   * IEEE Conference on Intelligent Transport System (ITSC)
   * Transportation Research Board Annual Meeting (TRB)
