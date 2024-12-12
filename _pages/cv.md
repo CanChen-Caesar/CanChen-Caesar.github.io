@@ -61,11 +61,12 @@ Service and leadership
 ======
 * Reviewer
   * Transportation Research Part C: Emerging Technologies
+  * IEEE Transactions on Intelligent Transportation Systems
   * Transportmetrica A: Transport Science
   * Transportmetrica B: Transport Dynamics
+  * Nature Communications
   * Applied Energy
   * Reliability Engineering & System Safety
   * Energy
-  * Nature Communications
   * IEEE Conference on Intelligent Transport System (ITSC)
   * Transportation Research Board Annual Meeting (TRB)
