@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* Feb 2025-present: Post-doctoral scientist
+  * École Polytechnique Fédérale de Lausanne
+  * Supervisor: [Nikolas Geroliminis](https://people.epfl.ch/nikolas.geroliminis)
+
 * Jan 2019-Aug 2019: Research Assistant
   * The Hong Kong Polytechnic University
   * Supervisor: Agachai Sumalee
