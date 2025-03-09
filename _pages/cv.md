@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Transportation Engineering, The Hong Kong Polytechnic University, 2024 / Advisor: [Shu-Chien Hsu](https://drmarkhsu.wordpress.com/) & Agachai Sumalee
+* Ph.D in Transportation Engineering, The Hong Kong Polytechnic University, 2024 / Advisor: [Shu-Chien Hsu](https://drmarkhsu.wordpress.com/) & [Agachai Sumalee](https://csii.chula.ac.th/team_member/professor-agachai-sumalee/)
 * M.S. in Traffic Engineering Information and Control, Sun Yat-Sen University, 2017 / Advisor: [Renxin Zhong](https://www.labxing.com/-1159)
 * B.S. in Transportation Engineering, Sun Yat-Sen University, 2014 / Advisor: [Renxin Zhong](https://www.labxing.com/-1159)
 
@@ -23,7 +23,7 @@ Work experience
 
 * Jan 2019-Aug 2019: Research Assistant
   * The Hong Kong Polytechnic University
-  * Supervisor: Agachai Sumalee
+  * Supervisor: [Agachai Sumalee](https://csii.chula.ac.th/team_member/professor-agachai-sumalee/)
 
 * Oct 2017-Jul 2018: Research Associate
   * Nanyang Technological University
