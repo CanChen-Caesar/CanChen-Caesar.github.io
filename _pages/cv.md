@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Transportation Engineering, The Hong Kong Polytechnic University, 2024 / Advisor: [Shu-Chien Hsu](https://drmarkhsu.wordpress.com/) & [Agachai Sumalee](https://csii.chula.ac.th/team_member/professor-agachai-sumalee/)
-* M.S. in Traffic Engineering Information and Control, Sun Yat-Sen University, 2017 / Advisor: [Renxin Zhong](https://www.labxing.com/-1159)
-* B.S. in Transportation Engineering, Sun Yat-Sen University, 2014 / Advisor: [Renxin Zhong](https://www.labxing.com/-1159)
-
 Work experience
 ======
 * Feb 2025-present: Post-doctoral scientist
@@ -36,6 +30,13 @@ Work experience
 * Sep 2014-Jun 2017: Research Assistant
   * Sun Yat-Sen University
   * Supervisor: [Renxin Zhong](https://www.labxing.com/-1159)
+
+Education
+======
+* Ph.D in Transportation Engineering, The Hong Kong Polytechnic University, 2024 / Advisor: [Shu-Chien Hsu](https://drmarkhsu.wordpress.com/) & [Agachai Sumalee](https://csii.chula.ac.th/team_member/professor-agachai-sumalee/)
+* M.S. in Traffic Engineering Information and Control, Sun Yat-Sen University, 2017 / Advisor: [Renxin Zhong](https://www.labxing.com/-1159)
+* B.S. in Transportation Engineering, Sun Yat-Sen University, 2014 / Advisor: [Renxin Zhong](https://www.labxing.com/-1159)
+
 
 Publications
 ======
