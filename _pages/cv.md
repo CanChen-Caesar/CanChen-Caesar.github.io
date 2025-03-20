@@ -75,3 +75,6 @@ Service and leadership
   * Energy
   * IEEE Conference on Intelligent Transport System (ITSC)
   * Transportation Research Board Annual Meeting (TRB)
+
+* Conference volunteer
+  * Session Chair, "Urban Air Mobility Infrastructure Planning", The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS), 9-10 December 2024, Hong Kong, P.R. China.
