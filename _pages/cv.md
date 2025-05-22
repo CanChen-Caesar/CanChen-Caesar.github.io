@@ -66,6 +66,7 @@ Service and leadership
 ======
 * Reviewer
   * Transportation Research Part C: Emerging Technologies
+  * Transportation Research Part D: Transport and Environment
   * IEEE Transactions on Intelligent Transportation Systems
   * Transportmetrica A: Transport Science
   * Transportmetrica B: Transport Dynamics
@@ -78,3 +79,4 @@ Service and leadership
 
 * Conference volunteer
   * Session Chair, "Urban Air Mobility Infrastructure Planning", The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS), 9-10 December 2024, Hong Kong, P.R. China.
+  * Session Chair, Session 7B, 25th Swiss Transport Research Conference (STRC), 14-16 May 2025, Ascona, Switzerland.
