@@ -65,6 +65,7 @@ Awards
 Service and leadership
 ======
 * Reviewer
+  * Transportation Research Part B: Methodological
   * Transportation Research Part C: Emerging Technologies
   * Transportation Research Part D: Transport and Environment
   * IEEE Transactions on Intelligent Transportation Systems
