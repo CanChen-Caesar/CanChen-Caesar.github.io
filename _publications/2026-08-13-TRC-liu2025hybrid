@@ -1,0 +1,12 @@
+---
+title: "Hybrid safe reinforcement learning for take-off and merging trajectory optimization in urban air mobility"
+collection: publications
+permalink: /publication/2026-08-13-TRC-liu2025hybrid
+excerpt: 'This paper proposed a hybrid safe reinforcement learning for take-off and merging trajectory optimization in urban air mobility.'
+date: 2026-08-13
+venue: 'Transportation Research Part C: Emerging Technologies'
+paperurl: ' '
+citation: 'Yingqi Liu, Tianlu Pan, Jingjun Tan, Renxin Zhong, Can Chen (2026). &quot;Hybrid safe reinforcement learning for take-off and merging trajectory optimization in urban air mobility.&quot; <i>Transportation Research Part C: Emerging Technologies</i>. Accepted.'
+---
+
+This paper proposes a Hybrid Safe reinforcement learning (RL) framework to address the eVTOL take-off and merging trajectory optimization problem under complex safety constraints. To enhance safety, we employ model-based higher-order control barrier functions (HOCBFs) to encode complex safety constraints. We incorporate the differentiable HOCBF loss into the policy optimization via adaptive Lagrange multipliers to create a gradient-based fence that guides safety adherence during the learning process. Furthermore, to overcome the performance limitations of existing safe RL methods based on single-layer neural networks, we introduce a deep RL architecture with a Hamilton-Jacobi-Bellman-guidance critic training scheme. This model-driven scheme promotes adherence to optimality conditions, leading to a stable approximation of the optimal control value and enhanced trajectory optimality.
