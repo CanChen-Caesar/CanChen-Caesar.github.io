@@ -68,6 +68,7 @@ Service and leadership
   * Transportation Research Part B: Methodological
   * Transportation Research Part C: Emerging Technologies
   * Transportation Research Part D: Transport and Environment
+  * Transportation Research Part E: Logistics and Transportation Review
   * IEEE Transactions on Intelligent Transportation Systems
   * Transportmetrica A: Transport Science
   * Transportmetrica B: Transport Dynamics
